@@ -1,6 +1,6 @@
 export const config = {
   github: {
-    owner: "moralesl",
+    owner: "chenkel",
     repository: "cdk-pipeline-starter-kit",
   }
 };
